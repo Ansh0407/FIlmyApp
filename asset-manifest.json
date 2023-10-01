@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FilmyApp/static/css/main.8d190db2.css",
+    "main.js": "/FilmyApp/static/js/main.a1796a0d.js",
+    "static/js/787.6a9d8b70.chunk.js": "/FilmyApp/static/js/787.6a9d8b70.chunk.js",
+    "index.html": "/FilmyApp/index.html",
+    "static/media/search.svg": "/FilmyApp/static/media/search.b767bc532c98b7adeca0005d07228476.svg",
+    "main.8d190db2.css.map": "/FilmyApp/static/css/main.8d190db2.css.map",
+    "main.a1796a0d.js.map": "/FilmyApp/static/js/main.a1796a0d.js.map",
+    "787.6a9d8b70.chunk.js.map": "/FilmyApp/static/js/787.6a9d8b70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d190db2.css",
+    "static/js/main.a1796a0d.js"
+  ]
+}
